@@ -7,6 +7,9 @@
 Gdi内存画板论坛地址：https://bbs.125.la/forum.php?mod=viewthread&tid=14696088<br>
 # 插件食用方法
 本插件依赖于小栗子机器人框架（https://www.xiaolz.cn/）
+# 设置界面
+![image](https://user-images.githubusercontent.com/20775434/167650187-e36b1680-de55-45d6-b3e5-9a44f65bab07.png)
+（如果不需要定时推送，请将推送群号和机器人留空即可，默认推送时间为18点）
 # 指令
 >  ba十连+卡池名称（为空则默认为常驻池子）
 
