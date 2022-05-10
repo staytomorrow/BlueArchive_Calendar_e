@@ -1,10 +1,10 @@
 # ba_calendar_e
 一个功能比较强大的机器人插件，可以推送碧蓝档案/蓝色档案的日程表，总力战一图流，以及模拟抽卡。
 # 源码食用
-本插件使用易语言编写，版本为5.9.
-源码所使用的模块同时随源码放出
-线程时钟论坛地址：https://bbs.125.la/forum.php?mod=viewthread&tid=14458191
-Gdi内存画板论坛地址：https://bbs.125.la/forum.php?mod=viewthread&tid=14696088
+本插件使用易语言编写，版本为5.9.<br>
+源码所使用的模块同时随源码放出<br>
+线程时钟论坛地址：https://bbs.125.la/forum.php?mod=viewthread&tid=14458191<br>
+Gdi内存画板论坛地址：https://bbs.125.la/forum.php?mod=viewthread&tid=14696088<br>
 # 插件食用方法
 本插件依赖于小栗子机器人框架（https://www.xiaolz.cn/）
 # 指令
@@ -26,5 +26,13 @@ Gdi内存画板论坛地址：https://bbs.125.la/forum.php?mod=viewthread&tid=14
 
 总力战一图流<br>
 ![image](https://user-images.githubusercontent.com/20775434/167646506-d891c4cb-3c57-4f3e-9f85-ce40876a9137.png)
+<br>
+（这个功能的实现有点暴力，借鉴了同类插件的获取方法，但是我用的是nga的数据，获取的图片可能有误）
+>  ba时刻表
 
-（）
+推送活动，来源bwiki<br>
+
+![LO3TDU9U(Q9FVHJ3C5LP6 W](https://user-images.githubusercontent.com/20775434/167648768-e19f1e03-ca6b-46bd-a7ba-13955f302e8f.png)
+
+
+
