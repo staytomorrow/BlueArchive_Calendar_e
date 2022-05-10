@@ -6,7 +6,7 @@
 线程时钟论坛地址：https://bbs.125.la/forum.php?mod=viewthread&tid=14458191<br>
 Gdi内存画板论坛地址：https://bbs.125.la/forum.php?mod=viewthread&tid=14696088<br>
 # 插件食用方法
-本插件依赖于小栗子机器人框架（https://www.xiaolz.cn/）
+本插件依赖于小栗子机器人框架（https://www.xiaolz.cn/）  
 插件帖子：https://bbs.xiaolz.cn/forum.php?mod=viewthread&tid=6279&extra=page%3D1%26filter%3Dsortid%26sortid%3D10
 遇见bug可进群反馈
 # 设置界面
