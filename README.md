@@ -1,42 +1,42 @@
 # BA_calendar_e
-һ�����ܱȽ�ǿ��Ļ����˲�����������ͱ�������/��ɫ�������ճ̱�������սһͼ�����Լ�ģ��鿨��
-��������� GPL-3.0 license Э�鿪Դ
-# Դ��ʳ��
-�����ʹ�������Ա�д���汾Ϊ5.9.<br>
-Դ����ʹ�õ�ģ��ͬʱ��Դ��ų�<br>
-�߳�ʱ����̳��ַ��https://bbs.125.la/forum.php?mod=viewthread&tid=14458191<br>
-Gdi�ڴ滭����̳��ַ��https://bbs.125.la/forum.php?mod=viewthread&tid=14696088<br>
-# ���ʳ�÷���
-�����������С���ӻ����˿�ܣ�https://www.xiaolz.cn/��  
-������ӣ�https://f.xiaolz.cn/thread-145-1-1.html
-����bug�ɽ�Ⱥ����
-# ���ý���
+一个功能比较强大的机器人插件，可以推送碧蓝档案/蓝色档案的日程表，总力战一图流，以及模拟抽卡。
+本插件采用 GPL-3.0 license 协议开源
+# 源码食用
+本插件使用易语言编写，版本为5.9.<br>
+源码所使用的模块同时随源码放出<br>
+线程时钟论坛地址：https://bbs.125.la/forum.php?mod=viewthread&tid=14458191<br>
+Gdi内存画板论坛地址：https://bbs.125.la/forum.php?mod=viewthread&tid=14696088<br>
+# 插件食用方法
+本插件依赖于小栗子机器人框架（https://www.xiaolz.cn/）  
+插件帖子：https://f.xiaolz.cn/thread-145-1-1.html
+遇见bug可进群反馈
+# 设置界面
 ![image](https://user-images.githubusercontent.com/20775434/167650187-e36b1680-de55-45d6-b3e5-9a44f65bab07.png)
-���������Ҫ��ʱ���ͣ��뽫����Ⱥ�źͻ��������ռ��ɣ�Ĭ������ʱ��Ϊ18�㣩
-# ָ��
->  baʮ��+�������ƣ�Ϊ����Ĭ��Ϊ��פ���ӣ�
+（如果不需要定时推送，请将推送群号和机器人留空即可，默认推送时间为18点）
+# 指令
+>  ba十连+卡池名称（为空则默认为常驻池子）
 
 ![image](https://user-images.githubusercontent.com/20775434/167645774-b5098145-0cb8-4c01-a5e0-e84f9b29d58f.png)
 
->  ba�����б�
+>  ba卡池列表
 
-�г����п���  
+列出所有卡池  
 ![image](https://user-images.githubusercontent.com/20775434/167646015-256a53a1-8c6a-4a61-8087-b7346d118491.png)
 
->  ba�鿨����
+>  ba抽卡数据
 
-�г���ĳ鿨����<br>
+列出你的抽卡数据<br>
 ![image](https://user-images.githubusercontent.com/20775434/167646201-d6d3a73b-f8d6-4df5-8a39-3a5c4d1c84b7.png)
 
->  ba����սһͼ��
+>  ba总力战一图流
 
-����սһͼ��<br>
+总力战一图流<br>
 ![image](https://user-images.githubusercontent.com/20775434/167646506-d891c4cb-3c57-4f3e-9f85-ce40876a9137.png)
 <br>
-��������ܵ�ʵ���е㱩���������ͬ�����Ļ�ȡ�������������õ���nga�����ݣ���ȡ��ͼƬ��������
->  baʱ�̱�
+（这个功能的实现有点暴力，借鉴了同类插件的获取方法，但是我用的是nga的数据，获取的图片可能有误）
+>  ba时刻表
 
-���ͻ����Դbwiki<br>
+推送活动，来源bwiki<br>
 
 ![LO3TDU9U(Q9FVHJ3C5LP6 W](https://user-images.githubusercontent.com/20775434/167648768-e19f1e03-ca6b-46bd-a7ba-13955f302e8f.png)
 
