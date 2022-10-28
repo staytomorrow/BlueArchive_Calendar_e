@@ -6,9 +6,8 @@
 源码所使用的模块同时随源码放出<br>
 线程时钟论坛地址：https://bbs.125.la/forum.php?mod=viewthread&tid=14458191<br>
 Gdi内存画板论坛地址：https://bbs.125.la/forum.php?mod=viewthread&tid=14696088<br>
-# 插件食用方法
-本插件依赖于小栗子机器人框架（https://www.xiaolz.cn/）  
-插件帖子：https://f.xiaolz.cn/thread-145-1-1.html
+# 插件食用方法 
+插件指南：https://www.kancloud.cn/staytomorrow/ba_calendar
 遇见bug可进群反馈
 注意：由于最近机器人环境变化，本插件已更换框架开发，详细可入群
 # 设置界面
