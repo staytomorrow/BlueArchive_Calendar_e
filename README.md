@@ -35,6 +35,7 @@ Gdi内存画板论坛地址：https://bbs.125.la/forum.php?mod=viewthread&tid=14
 |bawiki详细信息|查询角色的详细信息|bawiki详细信息白子
 |bawiki面板|查询角色面板（LV.80）|bawiki面板白子
 |bawiki技能|查询角色技能信息|bawiki技能白子
+<br>
 *：当开启不同设置时指令格式会有所不同
 
 *****
@@ -49,7 +50,7 @@ Gdi内存画板论坛地址：https://bbs.125.la/forum.php?mod=viewthread&tid=14
 |ba更换总力战图片国际服|更换国际服总力战一图流图片|同上
 |ba更换嘲讽图片|更换二星保底特殊提醒图片|ba更换嘲讽图片+图片（要求同上）
 |ba更新学生wiki数据|更新学生wiki数据
-*****
+
 #### 频道相关
 **由于QQ频道的特殊性，频道数据与群数据不互通，指令也会有所差别**
 普通菜单：QQ频道中不能使用ba一井功能，其他正常
@@ -64,9 +65,12 @@ Gdi内存画板论坛地址：https://bbs.125.la/forum.php?mod=viewthread&tid=14
 |ba关闭日程表推送|禁止机器人在此频道内定时推送日服日程表|
 |ba更改推送时间|介绍同管理菜单|ba更改推送时间19
 |ba更新学生wiki数据|更新学生wiki数据
+
+
+## 示例
 >  ba十连+卡池名称（为空则默认为常驻池子）
 
-##示例
+
 ![image](https://user-images.githubusercontent.com/20775434/167645774-b5098145-0cb8-4c01-a5e0-e84f9b29d58f.png)
 
 >  ba卡池列表
