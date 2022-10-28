@@ -7,9 +7,9 @@
 线程时钟论坛地址：https://bbs.125.la/forum.php?mod=viewthread&tid=14458191<br>
 Gdi内存画板论坛地址：https://bbs.125.la/forum.php?mod=viewthread&tid=14696088<br>
 # 插件食用方法 
-插件指南：https://www.kancloud.cn/staytomorrow/ba_calendar
-遇见bug可进群反馈
-注意：由于最近机器人环境变化，本插件已更换框架开发，详细可入群
+插件指南：https://www.kancloud.cn/staytomorrow/ba_calendar<br>
+遇见bug可进群反馈<br>
+由于作者懒狗，获取源码可发送邮件至staytomorrow#qq.com<br>
 # 设置界面
 ![image](https://user-images.githubusercontent.com/20775434/167650187-e36b1680-de55-45d6-b3e5-9a44f65bab07.png)
 （如果不需要定时推送，请将推送群号和机器人留空即可，默认推送时间为18点）
