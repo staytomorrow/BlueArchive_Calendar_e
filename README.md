@@ -10,42 +10,67 @@
 
 </div>
 
-## 简介
+# 📖 简介
 一个(几乎)全能的BA机器人插件，集千里眼，总力战，定时推送日程表，模拟抽卡等众多功能为一体的多功能BA游戏小助手。且可同时与Yunzai，Nonebot，Mirai等众多框架同时使用。
 本插件采用 GPL-3.0 license 协议开源<br>
-## 源码食用
+# 📃 源码食用
 本插件使用易语言编写，版本为5.9.<br>
 本插件采用的Kumiao框架为2.3版本魔改框架，可保证后续的更新与兼容<br>
 源码同时放出，可供自行修改
-## 插件食用方法 
-插件指南：[https://www.yuque.com/staytomorrow/ba_calendar/](https://www.yuque.com/staytomorrow/ba_calendar/)<br>
-指南中仅列出了与官方机器人API以及Yunzai的连接方法，如需其他方法，可<br>
-由于作者懒狗，获取源码可发送邮件至staytomorrow#qq.com<br>
-# 设置界面
-![image](https://user-images.githubusercontent.com/20775434/167650187-e36b1680-de55-45d6-b3e5-9a44f65bab07.png)
-（如果不需要定时推送，请将推送群号和机器人留空即可，默认推送时间为18点）
-## 指令
-### 指令介绍
-#### 普通菜单
-|   指令名称  |指令介绍    |示例     | 
-| --- | --- |--- |
-|ba菜单|获取机器人菜单|
-|  ba十连  |   此命令为模拟十连抽卡命令，命令格式为ba十连+卡池名称*  |   ba十连爱丽丝 或 ba十连 爱丽丝 
-|  ba一井  |  仅限群消息使用  |   ba一井爱丽丝  或 ba一井 爱丽丝
-|  ba卡池列表 |   获取当前机器人存在的卡池名称，在抽卡时使用  |     
-|  ba抽卡数据 |  获取本人当天抽卡数据（每日4点更新）   |     
-|  ba日服新闻  |  获取日服新闻列表   |     
-| ba服务器状态  | 获取游戏服务器当前状态    |     
-|  ba总力战一图流 | 获取日服总力战一图流    |     
-| ba总力战一图流国际服  |  获取日服总力战一图流     |     
-|ba日程表|获取日服日程表|
-|ba日程表国际服|获取国际服日程表
-|ba猜老婆|开启猜老婆功能|
-|换图|当您正在猜老婆的时候，您可以使用此指令更换一张新图出来，具体情况依管理员设定而定|
-|ba好感度|查询您当前所有角色的好感度，好感度可通过猜老婆功能获取|
-|bawiki详细信息|查询角色的详细信息|bawiki详细信息白子
-|bawiki面板|查询角色面板（LV.80）|bawiki面板白子
-|bawiki技能|查询角色技能信息|bawiki技能白子
+# 💻 安装
+简易方便，无需配置环境，连接即可使用
+<details open>
+<summary>[推荐] 下载ZIP文件解压</summary>
+  可下载release中的zip压缩包，也可使用提供的国内网盘文件
+
+</details>
+<details >
+<summary>自行下载插件本体组装</summary>
+  注意：仅方法仅供插件升级使用
+</details>
+
+**字体已与压缩包中给出，双击安装即可使用无需另行下载**
+
+连接QQ机器人方法：https://www.yuque.com/staytomorrow/ba_calendar/rh5mime8o3xgb91l <br>
+指南中仅列出了与官方机器人API以及Yunzai的连接方法，如需其他方法，可与作者私下了解<br>
+由于作者懒狗，获取最新源码可加群或发送邮件至staytomorrow#qq.com<br>
+
+# 💡 特别鸣谢
+[ba.ganekee.com](https://ba.gamekee.com/)<br>
+[bawiki-data](https://github.com/lgc-NB2Dev/bawiki-data)<br>
+[鸡窝托斯古书馆](https://kivo.wiki/)<br>
+[schaledb](https://schaledb.brightsu.cn/)<br>
+[什亭之匣](https://arona.icu/)<br>
+[anora api](https://doc.arona.diyigemt.com/api/)<br>
+[Bluearchive-logo](https://github.com/nulla2011/Bluearchive-logo)<br>
+
+# 📜 指令
+## 指令介绍
+### 普通菜单
+| 指令名称 | 指令介绍 | 示例 |
+| --- | --- | --- |
+| ba菜单 | 获取机器人菜单 |  |
+| ba十连 | 此命令为模拟十连抽卡命令，命令格式为ba十连+卡池名称* | ba十连爱丽丝 或 ba十连 爱丽丝 |
+| ba一井 | 仅限群消息使用 | ba一井爱丽丝 或 ba一井 爱丽丝 |
+| ba卡池列表 | 获取当前机器人存在的卡池名称，在抽卡时使用 |  |
+| ba抽卡数据 | 获取本人当天抽卡数据（每日4点更新） |  |
+| ba日服新闻 | 获取日服新闻列表 |  |
+| ba服务器状态 | 获取游戏服务器当前状态 |  |
+| ba总力战 | 获取日服总力战一图流 | ba总力战黑白 插件版本需≥20230605 |
+| ba总力战国际 | 获取日服总力战一图流 | ba总力战国际黑白 插件版本需≥20230605 |
+| ba日程表 | 获取日服日程表 |  |
+| ba日程表国际服 | 获取国际服日程表 |  |
+| ba猜老婆 | 开启猜老婆功能 |  |
+| ba猜语音 | 开启猜语音功能 |  |
+| 换图 | 当您正在猜老婆的时候，您可以使用此指令更换一张新图出来，具体情况依管理员设定而定 |  |
+| ba好感度 | 查询您当前所有角色的好感度，好感度可通过猜老婆功能获取 |  |
+| ba角评 | 获取角色评价(需更新Wiki数据后使用) | ba角评白子 |
+| bawiki | 查询角色的WIKI信息 | bawiki白子 |
+| ba生日 | 查询本周有哪些学生生日 |  |
+| ba图片 | 查询一个角色的立绘、live2d、设定集 | ba图片白子 |
+| ba关卡 | 查询某一关卡攻略 | ba关卡1-1 |
+| ba搜索 | 模糊匹配所有攻略图 | ba搜索国际服总力战 ba搜索杂图可获取所有攻略图片名称 |
+| balogo | 生成balogo图片：balogo 前半段 后半段 X偏移 Y偏移 -t(透明) | balogo 他能打 总力战吗  |
 <br>
 *：当开启不同设置时指令格式会有所不同
 
@@ -76,9 +101,17 @@
 |ba关闭日程表推送|禁止机器人在此频道内定时推送日服日程表|
 |ba更改推送时间|介绍同管理菜单|ba更改推送时间19
 |ba更新学生wiki数据|更新学生wiki数据
+# ⚙️ 设置界面
+<div align="center">
+  
+![image](https://github.com/staytomorrow/ba_calendar_e/assets/20775434/469be1a7-c2af-4e62-9842-d7c437ab711a)
+  
+![image](https://github.com/staytomorrow/ba_calendar_e/assets/20775434/e4769547-1a2e-4379-a29a-0a477dda769c)
+  
 
+</div>
 
-## 示例
+# 📰 示例
 TIP：仅在此列举部分内容，详细情况可移至语雀查看
 >  ba十连+卡池名称（为空则默认为常驻池子）
 
