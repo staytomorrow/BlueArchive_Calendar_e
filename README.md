@@ -1,27 +1,31 @@
-# <center>BA_calendar_e
+<div align="center">
 
-<center> ** 基于Kumiao二次开发框架的碧蓝档案插件**
+# BA_calendar_e
+
+### 基于Kumiao二次开发框架的碧蓝档案插件
+<img src="https://img.shields.io/badge/QQGroup-584380963-blue" alt="QQGroup">
 
 
+
+
+</div>
 
 ## 简介
-
 一个(几乎)全能的BA机器人插件，集千里眼，总力战，定时推送日程表，模拟抽卡等众多功能为一体的多功能BA游戏小助手。且可同时与Yunzai，Nonebot，Mirai等众多框架同时使用。
 本插件采用 GPL-3.0 license 协议开源<br>
-# 源码食用
+## 源码食用
 本插件使用易语言编写，版本为5.9.<br>
-源码所使用的模块同时随源码放出<br>
-线程时钟论坛地址：https://bbs.125.la/forum.php?mod=viewthread&tid=14458191<br>
-Gdi内存画板论坛地址：https://bbs.125.la/forum.php?mod=viewthread&tid=14696088<br>
-# 插件食用方法 
-插件指南：https://www.kancloud.cn/staytomorrow/ba_calendar<br>
-遇见bug可进群反馈<br>
+本插件采用的Kumiao框架为2.3版本魔改框架，可保证后续的更新与兼容<br>
+源码同时放出，可供自行修改
+## 插件食用方法 
+插件指南：[https://www.yuque.com/staytomorrow/ba_calendar/](https://www.yuque.com/staytomorrow/ba_calendar/)<br>
+指南中仅列出了与官方机器人API以及Yunzai的连接方法，如需其他方法，可<br>
 由于作者懒狗，获取源码可发送邮件至staytomorrow#qq.com<br>
 # 设置界面
 ![image](https://user-images.githubusercontent.com/20775434/167650187-e36b1680-de55-45d6-b3e5-9a44f65bab07.png)
 （如果不需要定时推送，请将推送群号和机器人留空即可，默认推送时间为18点）
-# 指令
-## 指令介绍
+## 指令
+### 指令介绍
 #### 普通菜单
 |   指令名称  |指令介绍    |示例     | 
 | --- | --- |--- |
@@ -75,6 +79,7 @@ Gdi内存画板论坛地址：https://bbs.125.la/forum.php?mod=viewthread&tid=14
 
 
 ## 示例
+TIP：仅在此列举部分内容，详细情况可移至语雀查看
 >  ba十连+卡池名称（为空则默认为常驻池子）
 
 
