@@ -1,6 +1,8 @@
 <div align="center">
 
 # BA_calendar_e
+![image](https://picst.sunbangyan.cn/2023/12/09/b7cedf5813c2c7b18a6c9e07746dc011.jpeg)
+
 
 ### 基于Kumiao二次开发框架的碧蓝档案插件
 <img src="https://img.shields.io/badge/QQGroup-584380963-blue" alt="QQGroup">
