@@ -45,7 +45,9 @@
 [什亭之匣](https://arona.icu/)<br>
 [anora api](https://doc.arona.diyigemt.com/api/)<br>
 [Bluearchive-logo](https://github.com/nulla2011/Bluearchive-logo)<br>
-
+# 📨 联系
+#### QQ群 ：584380963 
+#### 电子邮件 ：staytomorrow@qq.com
 # 📜 指令
 ## 指令介绍
 ### 普通菜单
