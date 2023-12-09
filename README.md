@@ -21,6 +21,7 @@
 源码同时放出，可供自行修改
 # 💻 安装
 简易方便，无需配置环境，连接即可使用
+## 自行部署
 <details open>
 <summary>[推荐] 下载ZIP文件解压</summary>
   可下载release中的zip压缩包，也可使用提供的国内网盘文件
@@ -31,13 +32,16 @@
   注意：仅方法仅供插件升级使用
 </details>
 
+## 体验
+扫码将机器人添加至自己的群即可体验部分功能，无需部署<\br>
+![image](https://github.com/staytomorrow/ba_calendar_e/blob/main/pic/QQ%E6%88%AA%E5%9B%BE20231209115318.png?raw=true)
 **字体已与压缩包中给出，双击安装即可使用无需另行下载**
 
 连接QQ机器人方法：https://www.yuque.com/staytomorrow/ba_calendar/rh5mime8o3xgb91l <br>
 指南中仅列出了与官方机器人API以及Yunzai的连接方法，如需其他方法，可与作者私下了解<br>
 由于作者懒狗，获取最新源码可加群或发送邮件至staytomorrow#qq.com<br>
 
-# 💡 特别鸣谢
+# 💡 特别鸣谢(排名不分先后)
 [ba.ganekee.com](https://ba.gamekee.com/)<br>
 [bawiki-data](https://github.com/lgc-NB2Dev/bawiki-data)<br>
 [鸡窝托斯古书馆](https://kivo.wiki/)<br>
