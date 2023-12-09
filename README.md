@@ -33,8 +33,9 @@
 </details>
 
 ## 体验
-扫码将机器人添加至自己的群即可体验部分功能，无需部署<\br>
-![image](https://github.com/staytomorrow/ba_calendar_e/blob/main/pic/QQ%E6%88%AA%E5%9B%BE20231209115318.png?raw=true)
+扫码将机器人添加至自己的群即可体验部分功能，无需部署 <br>
+
+![image](https://github.com/staytomorrow/ba_calendar_e/blob/main/pic/QQ%E6%88%AA%E5%9B%BE20231209115318.png?raw=true) <br>
 **字体已与压缩包中给出，双击安装即可使用无需另行下载**
 
 连接QQ机器人方法：https://www.yuque.com/staytomorrow/ba_calendar/rh5mime8o3xgb91l <br>
